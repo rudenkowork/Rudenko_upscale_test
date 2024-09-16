@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4975bfa6c1fe4219a15eeaaf103e8a97, type: 3}
+  m_Name: Sounds
+  m_EditorClassIdentifier: 
+  TrapSound: {fileID: 8300000, guid: df064b6edacb7dc43b2d36ceb157c71a, type: 3}
+  KeyPickSound: {fileID: 8300000, guid: 3e469078b8920cd4ebb92df6f74a07b8, type: 3}
+  ButtonPressSound: {fileID: 8300000, guid: 04214b439253e2b48a5f6b81d52a51d2, type: 3}
+  VictorySound: {fileID: 8300000, guid: a6a69fdaad77e964ba76379cb5d82a1e, type: 3}
