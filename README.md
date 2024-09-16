@@ -8,4 +8,4 @@ For asset management, I opted to use the **Resources** folder, given the scope o
 
 # Task Conditions
 
-All tasks specified in the technical requirements were completed, as well as to the principles outlined in the guidelines.
+All tasks specified in the technical requirements were completed as well as principles outlined in the guidelines.
